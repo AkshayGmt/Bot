@@ -9,8 +9,8 @@ from binance import Client
 import pandas as pd
 #%run ./Binance_keys.ipynb
 
-api_key = "jlWmXAyvJYX1jZtDu9OO0BtvxbgH0bfCArJVnvlu6rqWEOEoY5hyzD7qkWfmEjoI" 
-api_secret = "TykTlfC5eUJlhJVt5V9ufNaI9CQznt2cw0X4LESbKuU1NkfFNznECQBHWAx7inOv"
+api_key = "  " 
+api_secret = " "
 client = Client(api_key,api_secret)
 client.get_account()
 # Account Imformation
